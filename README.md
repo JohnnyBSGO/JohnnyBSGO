@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Olá, sou um progamador Front-End atualmente estou aprendendo e criando projetos com :
+Olá, sou um progamador Front-End, atualmente estou aprendendo e criando projetos com :
 <br>
 <br>
 
